@@ -1,4 +1,4 @@
-# Flutter Learning App
+# Flutter Profile Dashboard
 
 A simple Flutter application created for learning Flutter development concepts such as navigation, multiple screens, widgets, and UI design.
 
